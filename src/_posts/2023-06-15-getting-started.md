@@ -3,7 +3,6 @@ layout: post
 title: Starting my own tech blog!
 description: A very first blog post I made here.
 author: Filip Dorian Pindej
-comments: true
 ---
 
 Hello World!
@@ -16,9 +15,14 @@ var person = new Human
   Age = 28,
   Location = Country.CZ,
   Language = Language.CSharp,
-  Hobbies = new List<string>
+  Hobbies = new List<Hobby>
   {
-    "Ice hockey", "Hiking", "Music", "Guitars", "Knowledge quizes", "Software engineering" 
+      new Hobby("Ice hockey", favorite: true),
+      new Hobby("Guitars", favorite: true),
+      new Hobby("Hiking"),
+      new Hobby("Music"),
+      new Hobby("Knowledge quizzes"),
+      new Hobby("Software engineering")
   }
 };
 ```
