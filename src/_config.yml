@@ -10,6 +10,7 @@ github_username:  fpindej
 
 # Build settings
 theme: jekyll-theme-so-simple
+skin: "/assets/css/skins/dark.css"
 plugins:
   - jekyll-feed
 
