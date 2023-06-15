@@ -19,3 +19,20 @@ defaults:
       path: "assets/img"
     values:
       image: true
+
+# Site Author
+author:
+  name: Filip Dorian Pindej
+  picture: /assets/img/filip-pindej.jpg
+  email: blog@mail.pindej.cz
+  twitter: fdpindej
+  links:
+    - title: Twitter
+      url: https://twitter.com/fdpindej
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/fpindej
+      icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/filip-dorian-pindej/
+      icon: fab fa-linkedin-square
