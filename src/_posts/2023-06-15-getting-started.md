@@ -13,9 +13,9 @@ var person = new Human
   Age = 28,
   Location = Country.CZ,
   Language = Language.CSharp,
-  Hobbies = new List()
+  Hobbies = new List<string>
   {
     "Ice hockey", "Hiking", "Music", "Guitars", "Knowledge quizes", "Software engineering" 
   }
 };
-```
+```Can't wait to start posting relevant stuff that I learn along my journey!
