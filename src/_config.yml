@@ -17,6 +17,7 @@ theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
 
 defaults:
   - scope:
@@ -29,6 +30,8 @@ words_per_minute: 200
 
 paginate: 3  # amount of posts to show per page
 paginate_path: /page:num/
+
+search_full_content: true
 
 # Site Author
 author:
