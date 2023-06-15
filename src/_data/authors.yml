@@ -1,0 +1,11 @@
+Filip Dorian Pindej:
+  name: Filip Dorian Pindej
+  picture: /assets/img/filip-pindej.jpg
+  twitter: "@fdpindej"
+  links:
+    - title: Twitter
+      url: https://twitter.com/fdpindej
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/fpindej
+      icon: fab fa-github-square
