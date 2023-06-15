@@ -21,6 +21,9 @@ defaults:
     values:
       image: true
 
+read_time: true
+words_per_minute: 200
+
 # Site Author
 author:
   name: Filip Dorian Pindej
