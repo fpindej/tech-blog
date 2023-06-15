@@ -1,6 +1,9 @@
 ---
 layout: post
-title: "Getting started!"
+title: Starting my own tech blog!
+description: A very first blog post I made here.
+author: Filip Dorian Pindej
+comments: true
 ---
 
 Hello World!
@@ -18,4 +21,6 @@ var person = new Human
     "Ice hockey", "Hiking", "Music", "Guitars", "Knowledge quizes", "Software engineering" 
   }
 };
-```Can't wait to start posting relevant stuff that I learn along my journey!
+```
+
+Can't wait to start posting relevant stuff that I learn along my journey!
