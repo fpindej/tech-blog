@@ -3,11 +3,13 @@ title: Code Rink
 email: blog@mail.pindej.cz
 description: >- # this means to ignore newlines until "baseurl:"
   My personal tech and development blog. All opinions are mine and mine only.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.pindej.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/site-logo.png"
+
 twitter_username: fdpindej
 github_username:  fpindej
+linkedin_username: fpindej
 
 # Build settings
 theme: jekyll-theme-so-simple
@@ -44,3 +46,5 @@ author:
     - title: LinkedIn
       url: https://www.linkedin.com/in/filip-dorian-pindej/
       icon: fab fa-linkedin-square
+
+copyright: "Made by Filip Dorian Pindej."
