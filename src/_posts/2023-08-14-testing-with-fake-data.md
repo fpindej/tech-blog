@@ -7,7 +7,7 @@ author: Filip Dorian Pindej
 
 ## The struggle
 
-Often times I find myself wanting to test some code snippet I just created. Reasons my vary: I may have forgotten something I haven't used in a long time, I want to validate something...
+Often times I find myself wanting to test some code snippet I just created. Reasons may vary: I may have forgotten something I haven't used in a long time, I want to validate something...
 
 Creating Your own data is annoying, often time consuming and demotivating. Not to mention I'd like to test it against something "real".
 
@@ -167,3 +167,9 @@ After sending the request, webhook.site will catch the request and show everythi
 ## That's it!
 
 Keep in mind this is just a simple example of how You could utilize this simple tooling for testing Your own code, validations, creating fake data etc.
+
+## Playground
+
+You can test this code on [.NET Fiddle](https://dotnetfiddle.net/qftqMj)
+
+<iframe width="100%" height="475" src="https://dotnetfiddle.net/Widget/qftqMj" frameborder="0"></iframe>
