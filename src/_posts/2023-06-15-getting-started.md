@@ -19,6 +19,7 @@ var person = new Human
   {
       new Hobby("Ice hockey", favorite: true),
       new Hobby("Guitars", favorite: true),
+      new Hobby("Biking", favorite: true),
       new Hobby("Hiking"),
       new Hobby("Music"),
       new Hobby("Knowledge quizzes"),
