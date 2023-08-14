@@ -31,7 +31,7 @@ internal class Customer
     public string LastName { get; set; } = null!;
 
     [JsonPropertyName("age")]
-    [Range(18, 120)]
+    [Range(18, 80)]
     public int Age { get; set; }
 
     [JsonPropertyName("date_of_birth")]
