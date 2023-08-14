@@ -112,7 +112,12 @@ var fakeCustomers = FakeCustomerFactory.GenerateFakeCustomers(5); // multiple cu
 
 Great, running a debug on these data shows that the data are really there:
 
-![fake_customers](/assets/img/2023-08-14-testing-with-fake-data/fake_customers.png)
+<a href="/assets/img/2023-08-14-testing-with-fake-data/fake_customers.png">
+    <img 
+        src="/assets/img/2023-08-14-testing-with-fake-data/fake_customers.png" 
+        alt="Fake customers"
+    >
+</a>
 
 ## Is that it?!
 
@@ -154,7 +159,12 @@ catch (HttpRequestException ex)
 
 After sending the request, webhook.site will catch the request and show everything that it received:
 
-![webhook_result](/assets/img/2023-08-14-testing-with-fake-data/webhook_result.png)
+<a href="/assets/img/2023-08-14-testing-with-fake-data/webhook_result.png">
+    <img 
+        src="/assets/img/2023-08-14-testing-with-fake-data/webhook_result.png" 
+        alt="Webhook result"
+    >
+</a>
 
 ## That's it!
 
