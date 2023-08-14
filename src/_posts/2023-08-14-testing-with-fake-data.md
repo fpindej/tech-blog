@@ -141,8 +141,6 @@ const string endpoint = "https://webhook.site/{endpoint-id}";
 using var client = new HttpClient();
 var json = JsonSerializer.Serialize(fakeCustomers);
 var content = new StringContent(json, Encoding.UTF8, "application/json");
-        
-client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
 try
 {
